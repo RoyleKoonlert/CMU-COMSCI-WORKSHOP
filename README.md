@@ -1,5 +1,5 @@
 # CMU-COMSCI-WORKSHOP
 
-1. Royle
-2. Top
-3. Ben
+1. Dog
+2. Cat
+3. Bird
